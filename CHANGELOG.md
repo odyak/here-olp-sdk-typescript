@@ -2,11 +2,11 @@
 
 **olp-sdk-authentication**
 
-* Fixed build process for web
+* Fixed build process for web.
 
-* **Breaking Change** - UserAuthConfig.tokenRequester is required now
+* **Breaking Change** - UserAuthConfig.tokenRequester is required now.
 
 
 **olp-sdk-dataservice-read**
 
-* Fixed build process for web
+* Fixed build process for web.
